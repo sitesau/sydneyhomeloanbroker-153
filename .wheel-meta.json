@@ -1,0 +1,22 @@
+{
+  "wheel_id": 610,
+  "structure": "umbrella",
+  "slug": "sydneyhomeloanbroker-153",
+  "project": "home-loan-brokers-sydney-local-options-compared-c5ef92ceefd34e6",
+  "parent_t1_ref": "sydneyhomeloanbroker-012",
+  "node_role": "buffer",
+  "money_target": "sydneyhomeloanbroker.com.au",
+  "primary_kw": "home loan brokers sydney local options compared",
+  "intended_url": "https://sitesau.github.io/sydneyhomeloanbroker-153/",
+  "tier": "T2",
+  "writeback_nonce": "0a5b9f81f89fa1ab",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/sydneyhomeloanbroker-012/home-loan-brokers-sydney.html",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
